@@ -1,4 +1,4 @@
-# 💻 Exercícios de C
+# 💻 Exercícios em C
 
 Este repositório contém **listas de exercícios resolvidos em C**, organizados por tema, para prática de fundamentos, lógica de programação e manipulação de estruturas de dados.
 
